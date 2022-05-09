@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FormValidate</string>
+    <string name="toast_submit">Successfully submit</string>
+    <string name="toast_message">Required</string>
+</resources>
